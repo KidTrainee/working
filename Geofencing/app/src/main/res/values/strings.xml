@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geofencing</string>
+    <string name="location_format">Latitude = %4.3f, Longitude = %4.3f</string>
+</resources>
